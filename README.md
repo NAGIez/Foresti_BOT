@@ -1,3 +1,5 @@
+![](https://i.imgur.com/dBRbfmW.gif)
+
 ![](https://i.imgur.com/n4xRIw9.png)
 
 # <p align="center">Foresti [BOT]
@@ -89,3 +91,5 @@ __Номер группы:__ *3733805/80005*
 - __Тестировщик:__ *Илья Конощенок*
 
 - __Менеджер проекта:__ *Илья Бугаёв*
+
+![](https://i.imgur.com/aOba7jb.gif)
