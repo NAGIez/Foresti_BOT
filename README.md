@@ -4,7 +4,8 @@
 
 # <p align="center">Foresti [BOT]
 <p align="center">Telegram Bot для загрузки фото/видео из социальных сетей а также много других функции.
-На телеграмме можно найти как <a href="https://teleg.one/foresti_bot">Foresti [BOT]</a>.
+На телеграмме можно найти как <a href="https://t.me/foresti_bot">Foresti [BOT]</a>
+<p align="center"><a href="https://foresti.tk">The Official Website</a>
 
 ## Возможности:
 
